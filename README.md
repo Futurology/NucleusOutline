@@ -1,45 +1,80 @@
 NucleusOutline
 ==============
 Nucleus Outline
+
 Reactive Documents
+
   Education
+
   Man Pages
+
   Private Journals / Notebooks
+
   MOOCS
+
   Open Acess Textbooks
+
   Open Acess  Notes
+
   JSON
+
     Title
+
     Summaies
+
      Level 1
+
      Level 2
+
      Level 3
+
     Author Information
+
     Date
+
     Logical Representation Mode to detect fallacies
+
       Link: http://en.wikipedia.org/wiki/List_of_logic_symbols
+
   A private Degreed like software extracted from:
+
   Link: http://degreed.com
 
 
-Coursera
-Edx
-Treehouse
-MIT Opensourseware
-Udacity
-Khan Academy
-Articles from:
-Evernote
-Chrome Bookmarks
-Firefox Bookmarks
-Dropbox
-MicrosoftWord
-Google Drive / Docs
-LibreOffice
-PDFs
-Pocket
-Read it Later
-Google Starred Items
+    Coursera
+    
+    Edx
+    
+    Treehouse
+    
+    MIT Opensourseware
+    
+    Udacity
+    
+    Khan Academy
+    
+    Articles from:
+    
+      Evernote
+      
+      Chrome Bookmarks
+      
+      Firefox Bookmarks
+      
+      Dropbox
+      
+      MicrosoftWord
+      
+      Google Drive / Docs
+      
+      LibreOffice
+      
+      PDFs
+      
+      Pocket
+
+      Read it Later
+      Google Starred Items
 News
 Citizen Journalism
 Letters
